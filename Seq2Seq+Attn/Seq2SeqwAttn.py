@@ -59,12 +59,3 @@ english.build_vocab(train_data, max_size=10000, min_freq=2)
 
 
 ##Writing the model
-#Encoder
-class Encoder(nn.Module):
-	pass
-
-class Decoder(nn.Module):
-	pass
-
-class Seq2Seq(nn.Module):
-	pass
